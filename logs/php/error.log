@@ -1,0 +1,139 @@
+[08-Nov-2023 05:37:25 UTC] Sync process for Gutenberg Blocks has started.
+[08-Nov-2023 05:37:25 UTC] CATEGORY:Importing categories..
+[08-Nov-2023 05:37:25 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[08-Nov-2023 05:37:25 UTC] CATEGORY:Completed category import.
+[08-Nov-2023 05:37:25 UTC] BLOCK: Getting Total Blocks
+[08-Nov-2023 05:37:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[08-Nov-2023 05:37:26 UTC] BLOCK: Requests count 4
+[08-Nov-2023 05:37:26 UTC] BLOCK: Importing request 1 ..
+[08-Nov-2023 05:37:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[08-Nov-2023 05:37:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[08-Nov-2023 05:37:26 UTC] BLOCK: Completed request 1
+[08-Nov-2023 05:37:26 UTC] BLOCK: Importing request 2 ..
+[08-Nov-2023 05:37:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[08-Nov-2023 05:37:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[08-Nov-2023 05:37:26 UTC] BLOCK: Completed request 2
+[08-Nov-2023 05:37:26 UTC] BLOCK: Importing request 3 ..
+[08-Nov-2023 05:37:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[08-Nov-2023 05:37:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[08-Nov-2023 05:37:26 UTC] BLOCK: Completed request 3
+[08-Nov-2023 05:37:26 UTC] BLOCK: Importing request 4 ..
+[08-Nov-2023 05:37:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[08-Nov-2023 05:37:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[08-Nov-2023 05:37:26 UTC] BLOCK: Completed request 4
+[08-Nov-2023 05:37:26 UTC] SITE: Getting Total Sites
+[08-Nov-2023 05:37:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[08-Nov-2023 05:37:27 UTC] SITE: Request count 2
+[08-Nov-2023 05:37:27 UTC] SITE: Importing request 1 ..
+[08-Nov-2023 05:37:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[08-Nov-2023 05:37:27 UTC] SITE: Storing in option ast-block-templates-sites-1
+[08-Nov-2023 05:37:27 UTC] SITE: Completed request 1
+[08-Nov-2023 05:37:27 UTC] SITE: Importing request 2 ..
+[08-Nov-2023 05:37:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[08-Nov-2023 05:37:27 UTC] SITE: Storing in option ast-block-templates-sites-2
+[08-Nov-2023 05:37:27 UTC] SITE: Completed request 2
+[08-Nov-2023 05:37:27 UTC] Sync process for Gutenberg Blocks is done.
+[08-Nov-2023 06:06:14 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[10-Nov-2023 02:03:32 UTC] Sync process for Gutenberg Blocks has started.
+[10-Nov-2023 02:03:32 UTC] CATEGORY:Importing categories..
+[10-Nov-2023 02:03:32 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[10-Nov-2023 02:03:32 UTC] CATEGORY:Completed category import.
+[10-Nov-2023 02:03:32 UTC] BLOCK: Getting Total Blocks
+[10-Nov-2023 02:03:32 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[10-Nov-2023 02:03:32 UTC] BLOCK: Requests count 4
+[10-Nov-2023 02:03:32 UTC] BLOCK: Importing request 1 ..
+[10-Nov-2023 02:03:32 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[10-Nov-2023 02:03:32 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[10-Nov-2023 02:03:32 UTC] BLOCK: Completed request 1
+[10-Nov-2023 02:03:32 UTC] BLOCK: Importing request 2 ..
+[10-Nov-2023 02:03:32 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[10-Nov-2023 02:03:32 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[10-Nov-2023 02:03:32 UTC] BLOCK: Completed request 2
+[10-Nov-2023 02:03:32 UTC] BLOCK: Importing request 3 ..
+[10-Nov-2023 02:03:32 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[10-Nov-2023 02:03:32 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[10-Nov-2023 02:03:32 UTC] BLOCK: Completed request 3
+[10-Nov-2023 02:03:32 UTC] BLOCK: Importing request 4 ..
+[10-Nov-2023 02:03:32 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[10-Nov-2023 02:03:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[10-Nov-2023 02:03:33 UTC] BLOCK: Completed request 4
+[10-Nov-2023 02:03:33 UTC] SITE: Getting Total Sites
+[10-Nov-2023 02:03:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[10-Nov-2023 02:03:33 UTC] SITE: Request count 2
+[10-Nov-2023 02:03:33 UTC] SITE: Importing request 1 ..
+[10-Nov-2023 02:03:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[10-Nov-2023 02:03:33 UTC] SITE: Storing in option ast-block-templates-sites-1
+[10-Nov-2023 02:03:33 UTC] SITE: Completed request 1
+[10-Nov-2023 02:03:33 UTC] SITE: Importing request 2 ..
+[10-Nov-2023 02:03:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[10-Nov-2023 02:03:33 UTC] SITE: Storing in option ast-block-templates-sites-2
+[10-Nov-2023 02:03:33 UTC] SITE: Completed request 2
+[10-Nov-2023 02:03:33 UTC] Sync process for Gutenberg Blocks is done.
+[10-Nov-2023 05:13:16 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[11-Nov-2023 17:12:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[11-Nov-2023 18:53:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Nov-2023 05:17:55 UTC] Source - https://websitedemos.net/earth-08/wp-content/uploads/sites/1130/2022/10/About-banner.jpeg
+[12-Nov-2023 05:17:55 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/earth-08/wp-content/uploads/sites/1130/2022/10/About-banner.jpeg
+[12-Nov-2023 05:17:55 UTC] Log - {"url":"https:\/\/websitedemos.net\/earth-08\/wp-content\/uploads\/sites\/1130\/2022\/10\/About-banner.jpeg","id":0}
+[12-Nov-2023 05:17:55 UTC] About-banner.jpeg
+[12-Nov-2023 05:17:55 UTC] {"file":"C:\\Users\\renza\\Local Sites\\hailtrip\\app\\public\/wp-content\/uploads\/2023\/11\/About-banner.jpeg","url":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/About-banner.jpeg","type":"image\/jpeg","error":false}
+[12-Nov-2023 05:17:55 UTC] {"post_title":"About-banner.jpeg","guid":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/About-banner.jpeg"}
+[12-Nov-2023 05:17:56 UTC] BATCH - SUCCESS Image {Imported} - http://hailtrip.local/wp-content/uploads/2023/11/About-banner.jpeg
+[12-Nov-2023 05:17:56 UTC] Source - https://websitedemos.net/earth-08/wp-includes/images/media/default.png
+[12-Nov-2023 05:17:56 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/earth-08/wp-includes/images/media/default.png
+[12-Nov-2023 05:17:56 UTC] Log - {"url":"https:\/\/websitedemos.net\/earth-08\/wp-includes\/images\/media\/default.png","id":0}
+[12-Nov-2023 05:17:56 UTC] default.png
+[12-Nov-2023 05:17:56 UTC] {"file":"C:\\Users\\renza\\Local Sites\\hailtrip\\app\\public\/wp-content\/uploads\/2023\/11\/default.png","url":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/default.png","type":"image\/png","error":false}
+[12-Nov-2023 05:17:56 UTC] {"post_title":"default.png","guid":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/default.png"}
+[12-Nov-2023 05:17:56 UTC] BATCH - SUCCESS Image {Imported} - http://hailtrip.local/wp-content/uploads/2023/11/default.png
+[12-Nov-2023 05:17:56 UTC] Source - https://websitedemos.net/earth-08/wp-content/uploads/sites/1130/2022/10/Call-to-action.jpg
+[12-Nov-2023 05:17:56 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/earth-08/wp-content/uploads/sites/1130/2022/10/Call-to-action.jpg
+[12-Nov-2023 05:17:56 UTC] Log - {"url":"https:\/\/websitedemos.net\/earth-08\/wp-content\/uploads\/sites\/1130\/2022\/10\/Call-to-action.jpg","id":0}
+[12-Nov-2023 05:17:56 UTC] Call-to-action.jpg
+[12-Nov-2023 05:17:56 UTC] {"file":"C:\\Users\\renza\\Local Sites\\hailtrip\\app\\public\/wp-content\/uploads\/2023\/11\/Call-to-action.jpg","url":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/Call-to-action.jpg","type":"image\/jpeg","error":false}
+[12-Nov-2023 05:17:56 UTC] {"post_title":"Call-to-action.jpg","guid":"http:\/\/hailtrip.local\/wp-content\/uploads\/2023\/11\/Call-to-action.jpg"}
+[12-Nov-2023 05:17:57 UTC] BATCH - SUCCESS Image {Imported} - http://hailtrip.local/wp-content/uploads/2023/11/Call-to-action.jpg
+[13-Nov-2023 06:28:34 UTC] Sync process for Gutenberg Blocks has started.
+[13-Nov-2023 06:28:34 UTC] CATEGORY:Importing categories..
+[13-Nov-2023 06:28:34 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[13-Nov-2023 06:28:34 UTC] CATEGORY:Completed category import.
+[13-Nov-2023 06:28:34 UTC] BLOCK: Getting Total Blocks
+[13-Nov-2023 06:28:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[13-Nov-2023 06:28:34 UTC] BLOCK: Requests count 4
+[13-Nov-2023 06:28:34 UTC] BLOCK: Importing request 1 ..
+[13-Nov-2023 06:28:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[13-Nov-2023 06:28:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[13-Nov-2023 06:28:34 UTC] BLOCK: Completed request 1
+[13-Nov-2023 06:28:34 UTC] BLOCK: Importing request 2 ..
+[13-Nov-2023 06:28:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[13-Nov-2023 06:28:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[13-Nov-2023 06:28:35 UTC] BLOCK: Completed request 2
+[13-Nov-2023 06:28:35 UTC] BLOCK: Importing request 3 ..
+[13-Nov-2023 06:28:35 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[13-Nov-2023 06:28:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[13-Nov-2023 06:28:35 UTC] BLOCK: Completed request 3
+[13-Nov-2023 06:28:35 UTC] BLOCK: Importing request 4 ..
+[13-Nov-2023 06:28:35 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[13-Nov-2023 06:28:35 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[13-Nov-2023 06:28:35 UTC] BLOCK: Completed request 4
+[13-Nov-2023 06:28:35 UTC] SITE: Getting Total Sites
+[13-Nov-2023 06:28:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[13-Nov-2023 06:28:35 UTC] SITE: Request count 2
+[13-Nov-2023 06:28:35 UTC] SITE: Importing request 1 ..
+[13-Nov-2023 06:28:35 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[13-Nov-2023 06:28:36 UTC] SITE: Storing in option ast-block-templates-sites-1
+[13-Nov-2023 06:28:36 UTC] SITE: Completed request 1
+[13-Nov-2023 06:28:36 UTC] SITE: Importing request 2 ..
+[13-Nov-2023 06:28:36 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[13-Nov-2023 06:28:36 UTC] SITE: Storing in option ast-block-templates-sites-2
+[13-Nov-2023 06:28:36 UTC] SITE: Completed request 2
+[13-Nov-2023 06:28:36 UTC] Sync process for Gutenberg Blocks is done.
+[13-Nov-2023 06:33:49 UTC] PHP Warning:  chmod(): Permission denied in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 85
+[13-Nov-2023 06:33:49 UTC] PHP Warning:  copy(/index.html): Failed to open stream: Permission denied in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/30/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/35/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/289/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/categories/5/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/categories/7/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/45/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
+[13-Nov-2023 06:33:50 UTC] PHP Warning:  copy(/wp-json/wp/v2/posts/39/index.html): Failed to open stream: No such file or directory in C:\Users\renza\Local Sites\hailtrip\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
